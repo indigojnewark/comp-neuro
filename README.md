@@ -196,17 +196,14 @@ python scripts/run_pipeline.py
 
 ## What This Repository Demonstrates
 
-✅ **Real data analysis:** Working with published neuroscience datasets, not toy data
+**Real data analysis:** Working with published neuroscience datasets, not toy data
 
-✅ **Mathematical modelling:** Implementing cognitive models from equations, not black boxes
+**Mathematical modelling:** Implementing cognitive models from equations, not black boxes
 
-✅ **Machine learning:** Proper ML workflow with validation and realistic performance
+**Machine learning:** Proper ML workflow with validation and realistic performance
 
-✅ **Clean code:** Modular structure, docstrings, reproducibility
+**Clean code:** Modular structure, docstrings, reproducibility
 
-✅ **Scientific thinking:** Connecting behaviour, models, and neural mechanisms
-
-✅ **MSc readiness:** Demonstrates programming, modelling, and data analysis skills needed for computational neuroscience graduate work
 
 ## References
 
@@ -216,7 +213,7 @@ python scripts/run_pipeline.py
 
 ## Author
 
-Built by a neuroscience BSc graduate transitioning into computational neuroscience and cognitive AI for MSc applications.
+Built for the purpose of MSc and PhD applications. 
 
 ## License
 
